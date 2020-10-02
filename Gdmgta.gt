@@ -1,0 +1,6 @@
+code ;
+#set filtype as 1:
+
+main 
+int var char()
+return 0
